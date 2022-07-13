@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samarth-sudo
 - 👀 I’m interested in Creating things 
-- 🌱 I’m currently learning python 3
-- 💞️ I’m looking to collaborate on various projects
+- 🌱 
+- 💞
 - 📫 How to reach me @ samarthsingh59@gmail.com
 
 <!---
