@@ -2,7 +2,7 @@
 - 👀 I’m interested in Creating things 
 - 🌱 
 - 💞
-- 📫 How to reach me @ samarthsingh59@gmail.com
+- 📫 How to reach me @ samarthssingh5@gmail.com
 
 <!---
 samarth-sudo/samarth-sudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
