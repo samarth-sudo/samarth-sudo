@@ -11,8 +11,7 @@
 
 ### 🌟 Projects I'm Proud Of
 - 🧠 **[Simulator_GOAP](https://github.com/samarth-sudo/Simulator_GOAP)**: Developed a Unity-based simulation demonstrating Goal-Oriented Action Planning (GOAP) in dynamic environments. 
-- 📊 **[Reggie's Linear Regression](https://github.com/samarth-sudo/Reggie-s-linear-regression)**: Implemented linear regression models to analyze and predict data trends.
-- 🚁 **[Auto-Level-Quad](https://github.com/samarth-sudo/Auto-Level-Quad)**: Engineered an autonomous quadcopter with self-leveling capabilities using C++.
+**Many More** 
 
 ### 📈 What I'm Working On
 - 🤖 Exploring advanced machine learning algorithms for predictive analytics.
