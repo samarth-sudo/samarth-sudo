@@ -10,7 +10,8 @@
 - 🌍 Open to collaborations on cutting-edge projects and research.
 
 ### 🌟 Projects I'm Proud Of
-- 🧠 **[Simulator_GOAP](https://github.com/samarth-sudo/Simulator_GOAP)**: Developed a Unity-based simulation demonstrating Goal-Oriented Action Planning (GOAP) in dynamic environments. 
+- 🧠 **[Simulator_GOAP](https://github.com/samarth-sudo/Simulator_GOAP)**: Developed a Unity-based simulation demonstrating Goal-Oriented Action Planning (GOAP) in dynamic environments.
+- 🧠 **[AgroDash]**: Developed a dashboard for the NDVI Index for AOI in anywhere in the world.
 **Many More** 
 
 ### 📈 What I'm Working On
