@@ -1,26 +1,16 @@
----
-
 👋 **Hi, I’m Samarth Singh!**  
-🚀 Passionate about creating innovative solutions through technology.
+🚀 AI Researcher and Robotics Specialist passionate about creating innovative technology solutions that drive real-world impact.
 
-### 💡 About Me
-- 🎓 Pursuing a degree in Computer Science.
-- 💻 Experienced in Python, C++, and Jupyter Notebook.
-- 🌟 Enthusiastic about **machine learning**, **simulations**, and **algorithm development**.
-- 🌍 Open to collaborations on cutting-edge projects and research.
+### 💡 About Me  
+- 🎓 Master’s graduate in Robotics & Autonomous Systems with a major in Machine Learning and AI from Boston University.  
+- 🌟 Deeply engaged in **AI research**, **robotics**, **simulations**, and **algorithm development**.  
+- 🌍 Open to collaborations on cutting-edge AI and robotics projects.
 
-### 🌟 Projects I'm Proud Of
-- 🧠 **[Simulator_GOAP](https://github.com/samarth-sudo/Simulator_GOAP)**: Developed a Unity-based simulation demonstrating Goal-Oriented Action Planning (GOAP) in dynamic environments.
-- 🧠 **[AgroDash]**: Developed a dashboard for the NDVI Index for AOI in anywhere in the world.
-**Many More** 
+### 📈 What I’m Working On  
+- 🤖 Building practical AI and machine learning solutions for real-world challenges.  
+- 🤖 Developing intelligent systems for automation and autonomy.  
 
-### 📈 What I'm Working On
-- 🤖 Exploring advanced machine learning algorithms for predictive analytics.
-- 🎮 Developing interactive simulations to model complex systems.
-- 📚 Enhancing my skills in data visualization and statistical analysis.
 
-### 💬 Let's Connect!
-- 💌 Reach out: [samarthssingh5@gmail.com](mailto:samarthssingh5@gmail.com)
-- 🐦 Website: [samarthsingh.my](https://samarthsingh.my) 
-
----
+### 💬 Let’s Connect!  
+- 💌 Email: [samarthssingh5@gmail.com](mailto:samarthssingh5@gmail.com)  
+- 🌐 Website: [samarthsingh.my](https://samarthsingh.my)
